@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "9507cb21-e2fd-4c48-90fe-a50f4ea1f5b6",
+    "name": "AchM",
+    "created": "2019-10-10 17:19:24 +0200",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "f0411d52-78d3-45cd-ba78-ccaf6d5dde4f",
+    "name": "aCham",
+    "created": "2019-10-10 17:19:41 +0200",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]
