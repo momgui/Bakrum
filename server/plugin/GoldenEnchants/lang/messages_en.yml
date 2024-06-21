@@ -1,0 +1,181 @@
+Prefix: '&eGoldenEnchants &8» &7'
+Core:
+  Command:
+    Usage: '&c* Usage: &f/%label% %cmd% %usage%'
+    Help:
+      Format: '&6» &e/%label% %cmd% %usage% &7- %description%'
+      List:
+      - '&8&m━━━━━━━━━━━━&8&l[ &e&lGoldenEnchants &7- &6&lHelp &8&l]&8&m━━━━━━━━━━━━'
+      - '%cmds%'
+      Desc: Show help page.
+    Editor:
+      Desc: Opens GUI Editor.
+    Info:
+      Desc: Some info about the plugin.
+    Reload:
+      Desc: Reload the plugin.
+      Done: GoldenEnchants reloaded!
+Time:
+  Day: d.
+  Hour: h.
+  Min: min.
+  Sec: sec.
+Other:
+  'Yes': '&aYes'
+  'No': '&cNo'
+  NoItem: You must hold an item!
+  NoEnchant: '&cNo such enchant.'
+Error:
+  NoPlayer: '&cPlayer not found.'
+  NoWorld: '&cWorld not found.'
+  Number: '&7%num% &cis not a valid number.'
+  NoPerm: '&cYou don''t have permissions to do that!'
+  NoData: '&4Error while get data for &c%player%&4.'
+  Type: 'Invalid type. Available: %types%'
+  Self: Can not be used on yourself.
+  Sender: This command is for players only.
+Command:
+  Enchant:
+    Usage: <enchant> <level>
+    Desc: Enchants the item in your hand.
+    Error: '&cThis enchant can not be applied to this item!'
+    Done: '&aSuccessfully enchanted!'
+  List:
+    Desc: List of Golden Enchants
+    Format:
+      List:
+      - ''
+      - '&8&m-------- &e List of Golden Enchants &8&m--------'
+      - '%enchant% %button_book% %button_enchant%'
+      - '&8&m-------- &e Page &7%page% &e of &7 %pages% &8&m--------'
+    Enchant:
+      Hint:
+      - '&7Tier: &f%tier%'
+      - '&7Chance: &f%chance%'
+      - '&7Min Level: &f%min-level%'
+      - '&7Max Level: &f%max-level%'
+    Button:
+      Book:
+        Name: '&e&l[Get Book]'
+        Hint: '&7Gives enchant book to your inventory.'
+      Enchant:
+        Name: '&b&l[Enchant Item]'
+        Hint: '&7Enchants item in your hand.'
+  Book:
+    Usage: <player> <enchant> <level>
+    Desc: Gives custom enchanted book.
+    Done: Given &6%enchant%&7 enchanted book to &6%player%&7.
+  TierBook:
+    Usage: <player> <tier> <level>
+    Desc: Gives an enchanted book.
+    Error: '&cInvalid tier!'
+    Done: Given &6%enchant%&7 enchanted book to &6%player%&7.
+Enchants:
+  DivineTouch:
+    Spawner: '&aMob Spawner &7(%type%)'
+  Executioner:
+    Head: '&c%entity%''s Head'
+EntityType:
+  DROPPED_ITEM: Dropped Item
+  EXPERIENCE_ORB: Experience Orb
+  AREA_EFFECT_CLOUD: Area Effect Cloud
+  ELDER_GUARDIAN: Elder Guardian
+  WITHER_SKELETON: Wither Skeleton
+  STRAY: Stray
+  EGG: Egg
+  LEASH_HITCH: Leash Hitch
+  PAINTING: Painting
+  ARROW: Arrow
+  SNOWBALL: Snowball
+  FIREBALL: Fireball
+  SMALL_FIREBALL: Small Fireball
+  ENDER_PEARL: Ender Pearl
+  ENDER_SIGNAL: Ender Signal
+  SPLASH_POTION: Splash Potion
+  THROWN_EXP_BOTTLE: Thrown Exp Bottle
+  ITEM_FRAME: Item Frame
+  WITHER_SKULL: Wither Skull
+  PRIMED_TNT: Primed Tnt
+  FALLING_BLOCK: Falling Block
+  FIREWORK: Firework
+  HUSK: Husk
+  SPECTRAL_ARROW: Spectral Arrow
+  SHULKER_BULLET: Shulker Bullet
+  DRAGON_FIREBALL: Dragon Fireball
+  ZOMBIE_VILLAGER: Zombie Villager
+  SKELETON_HORSE: Skeleton Horse
+  ZOMBIE_HORSE: Zombie Horse
+  ARMOR_STAND: Armor Stand
+  DONKEY: Donkey
+  MULE: Mule
+  EVOKER_FANGS: Evoker Fangs
+  EVOKER: Evoker
+  VEX: Vex
+  VINDICATOR: Vindicator
+  ILLUSIONER: Illusioner
+  MINECART_COMMAND: Minecart Command
+  BOAT: Boat
+  MINECART: Minecart
+  MINECART_CHEST: Minecart Chest
+  MINECART_FURNACE: Minecart Furnace
+  MINECART_TNT: Minecart Tnt
+  MINECART_HOPPER: Minecart Hopper
+  MINECART_MOB_SPAWNER: Minecart Mob Spawner
+  CREEPER: Creeper
+  SKELETON: Skeleton
+  SPIDER: Spider
+  GIANT: Giant
+  ZOMBIE: Zombie
+  SLIME: Slime
+  GHAST: Ghast
+  PIG_ZOMBIE: Pig Zombie
+  ENDERMAN: Enderman
+  CAVE_SPIDER: Cave Spider
+  SILVERFISH: Silverfish
+  BLAZE: Blaze
+  MAGMA_CUBE: Magma Cube
+  ENDER_DRAGON: Ender Dragon
+  WITHER: Wither
+  BAT: Bat
+  WITCH: Witch
+  ENDERMITE: Endermite
+  GUARDIAN: Guardian
+  SHULKER: Shulker
+  PIG: Pig
+  SHEEP: Sheep
+  COW: Cow
+  CHICKEN: Chicken
+  SQUID: Squid
+  WOLF: Wolf
+  MUSHROOM_COW: Mushroom Cow
+  SNOWMAN: Snowman
+  OCELOT: Ocelot
+  IRON_GOLEM: Iron Golem
+  HORSE: Horse
+  RABBIT: Rabbit
+  POLAR_BEAR: Polar Bear
+  LLAMA: Llama
+  LLAMA_SPIT: Llama Spit
+  PARROT: Parrot
+  VILLAGER: Villager
+  ENDER_CRYSTAL: Ender Crystal
+  TURTLE: Turtle
+  PHANTOM: Phantom
+  TRIDENT: Trident
+  COD: Cod
+  SALMON: Salmon
+  PUFFERFISH: Pufferfish
+  TROPICAL_FISH: Tropical Fish
+  DROWNED: Drowned
+  DOLPHIN: Dolphin
+  CAT: Cat
+  PANDA: Panda
+  PILLAGER: Pillager
+  RAVAGER: Ravager
+  TRADER_LLAMA: Trader Llama
+  WANDERING_TRADER: Wandering Trader
+  FOX: Fox
+  FISHING_HOOK: Fishing Hook
+  LIGHTNING: Lightning
+  PLAYER: Player
+  UNKNOWN: Unknown

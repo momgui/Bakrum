@@ -1,0 +1,293 @@
+core:
+  command-aliases: goldenenchants,enchants,gench
+  lang: en
+general:
+  max-item-enchants: 3
+  max-enchants-from-table: 2
+  chance-to-get-golden-enchant: 25.0
+  disable-arrow-trails: false
+advanced:
+  smelter:
+    result-table:
+      IRON_ORE: IRON_INGOT
+      GOLD_ORE: GOLD_INGOT
+      SAND: GLASS
+  treasures:
+    STONE:
+      BONE: 20.0
+    DIRT:
+      GLOWSTONE_DUST: 5.0
+tiers:
+  common:
+    name: '&fCommon'
+    color: WHITE
+    chance: 75.0
+  rare:
+    name: '&aRare'
+    color: GREEN
+    chance: 45.0
+  exotic:
+    name: '&9Exotic'
+    color: BLUE
+    chance: 20.0
+  legendary:
+    name: '&6Legendary'
+    color: GOLD
+    chance: 5.0
+Enchants:
+  EXHAUST:
+    enabled: true
+    name: Exhaust
+    tier: common
+    min-level: 1
+    max-level: 2
+    min-table-level: 12
+    chance: 60.0
+  ICE_ASPECT:
+    enabled: true
+    name: Ice Aspect
+    tier: common
+    min-level: 1
+    max-level: 3
+    min-table-level: 12
+    chance: 60.0
+  CONFUSION:
+    enabled: true
+    name: Confusion
+    tier: common
+    min-level: 1
+    max-level: 3
+    min-table-level: 12
+    chance: 60.0
+  BLINDNESS:
+    enabled: true
+    name: Blindness
+    tier: common
+    min-level: 1
+    max-level: 3
+    min-table-level: 12
+    chance: 60.0
+  VENOM:
+    enabled: true
+    name: Venom
+    tier: rare
+    min-level: 1
+    max-level: 2
+    min-table-level: 30
+    chance: 45.0
+  WITHER:
+    enabled: true
+    name: Wither
+    tier: rare
+    min-level: 1
+    max-level: 2
+    min-table-level: 30
+    chance: 45.0
+  RAGE:
+    enabled: true
+    name: Rage
+    tier: rare
+    min-level: 1
+    max-level: 2
+    min-table-level: 30
+    chance: 35.0
+  EXECUTIONER:
+    enabled: true
+    name: Executioner
+    tier: rare
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 30.0
+  ROCKET:
+    enabled: true
+    name: Rocket
+    tier: exotic
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 25.0
+  VAMPIRE:
+    enabled: true
+    name: Vampire
+    tier: exotic
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 25.0
+  EXP_HUNTER:
+    enabled: true
+    name: Exp Hunter
+    tier: exotic
+    min-level: 1
+    max-level: 6
+    min-table-level: 30
+    chance: 25.0
+  CUTTER:
+    enabled: true
+    name: Cutter
+    tier: exotic
+    min-level: 1
+    max-level: 5
+    min-table-level: 30
+    chance: 15.0
+  GIFT:
+    enabled: true
+    name: Gift
+    tier: exotic
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 20.0
+  PARALYZE:
+    enabled: true
+    name: Paralyze
+    tier: legendary
+    min-level: 1
+    max-level: 2
+    min-table-level: 30
+    chance: 10.0
+  DOUBLE_STRIKE:
+    enabled: true
+    name: Double Strike
+    tier: legendary
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 10.0
+  DIVINE_TOUCH:
+    enabled: true
+    name: Divine Touch
+    tier: legendary
+    min-level: 1
+    max-level: 3
+    min-table-level: 30
+    chance: 15.0
+  SMELTER:
+    enabled: true
+    name: Smelter
+    tier: rare
+    min-level: 1
+    max-level: 7
+    min-table-level: 30
+    chance: 50.0
+  TREASURES:
+    enabled: true
+    name: Treasures
+    tier: exotic
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 25.0
+  COLD_STEEL:
+    enabled: true
+    name: Cold Steel
+    tier: rare
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 45.0
+  GLOW:
+    enabled: true
+    name: Glow
+    tier: common
+    min-level: 1
+    max-level: 1
+    min-table-level: 12
+    chance: 50.0
+  FULL_FED:
+    enabled: true
+    name: Full-Fed
+    tier: rare
+    min-level: 1
+    max-level: 2
+    min-table-level: 25
+    chance: 30.0
+  AQUAMAN:
+    enabled: true
+    name: Aquaman
+    tier: rare
+    min-level: 1
+    max-level: 1
+    min-table-level: 15
+    chance: 45.0
+  NVD:
+    enabled: true
+    name: NVD
+    tier: common
+    min-level: 1
+    max-level: 1
+    min-table-level: 15
+    chance: 35.0
+  BUNNY_HOP:
+    enabled: true
+    name: Bunny Hop
+    tier: common
+    min-level: 1
+    max-level: 3
+    min-table-level: 15
+    chance: 35.0
+  SONIC:
+    enabled: true
+    name: Sonic
+    tier: rare
+    min-level: 1
+    max-level: 3
+    min-table-level: 15
+    chance: 35.0
+  TERRORIST:
+    enabled: true
+    name: Terrorist
+    tier: exotic
+    min-level: 1
+    max-level: 4
+    min-table-level: 30
+    chance: 15.0
+  POISONED_ARROWS:
+    enabled: true
+    name: Poisoned Arrows
+    tier: common
+    min-level: 1
+    max-level: 2
+    min-table-level: 15
+    chance: 50.0
+  WITHERED_ARROWS:
+    enabled: true
+    name: Withered Arrows
+    tier: rare
+    min-level: 1
+    max-level: 2
+    min-table-level: 15
+    chance: 35.0
+  EXPLOSIVE_ARROWS:
+    enabled: true
+    name: Explosive Arrows
+    tier: exotic
+    min-level: 1
+    max-level: 3
+    min-table-level: 30
+    chance: 15.0
+  GHAST:
+    enabled: true
+    name: Ghast
+    tier: common
+    min-level: 1
+    max-level: 1
+    min-table-level: 30
+    chance: 45.0
+  BOMBER:
+    enabled: true
+    name: Bomber
+    tier: exotic
+    min-level: 1
+    max-level: 3
+    min-table-level: 30
+    chance: 15.0
+  ENDER_BOW:
+    enabled: true
+    name: Ender Bow
+    tier: legendary
+    min-level: 1
+    max-level: 1
+    min-table-level: 30
+    chance: 10.0

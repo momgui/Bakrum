@@ -1,0 +1,179 @@
+# Tranlsated by @qsefthuopq
+Prefix: '&eGoldenEnchants &8» &7'
+Core:
+  Command:
+    Usage: '&c* 用法: &f/%label% %cmd% %usage%'
+    Help:
+      Format: '&6» &e/%label% %cmd% %usage% &7- %description%'
+      List:
+      - '&8&m━━━━━━━━━━━━&8&l[ &e&lGoldenEnchants &7- &6&l帮助 &8&l]&8&m━━━━━━━━━━━━'
+      - '%cmds%'
+      Desc: 显示帮助页面.
+    Editor:
+      Desc: 打开菜单编辑器.
+    Info:
+      Desc: 显示一些插件信息.
+    Reload:
+      Desc: 重载插件.
+      Done: GoldenEnchants已重载!
+Time:
+  Day: 天.
+  Hour: 时.
+  Min: 分.
+  Sec: 秒.
+Other:
+  'Yes': '&a是'
+  'No': '&c否'
+  NoItem: 你必须手持物品!
+  NoEnchant: '&c木有介个附魔.'
+Error:
+  NoPlayer: '&c找不到这名玩家.'
+  NoWorld: '&c找不到这个世界.'
+  Number: '&7%num% &c不是有效的数字.'
+  NoPerm: '&c您没有权限这么做!'
+  NoData: '&4获取 &c%player%&4 的数据时出错.'
+  Type: '无效的类型. 可用: %types%'
+  Self: 不能用于你自身.
+  Sender: 这个指令只能由玩家使用.
+Command:
+  Enchant:
+    Usage: <附魔> <等级>
+    Desc: 附魔你手中的物品.
+    Error: '&c你不能附魔到这个物品上面!'
+    Done: '&a您已成功附魔!'
+  List:
+    Desc: 附魔列表
+    Format:
+      List:
+      - ''
+      - '&8&m-------- &e 附魔列表 &8&m--------'
+      - '%enchant% %button_book% %button_enchant%'
+      - '&8&m-------- &e 第 &7%page% &e 页/ &7 共 %pages% 页&8&m--------'
+    Enchant:
+      Hint:
+      - '&7品质: &f%tier%'
+      - '&7几率: &f%chance%'
+      - '&7最低等级: &f%min-level%'
+      - '&7最高等级: &f%max-level%'
+    Button:
+      Book:
+        Name: '&e&l[Get Book]'
+        Hint: '&7获取附魔书.'
+      Enchant:
+        Name: '&b&l[Enchant Item]'
+        Hint: '&7附魔你手中物品.'
+  Book:
+    Usage: <玩家> <附魔> <等级>
+    Desc: 给予玩家自定义附魔书.
+    Done: 已给予 &6%enchant%&7 附魔书给 &6%player%&7.
+  TierBook:
+    Usage: <玩家> <品质> <等级>
+    Desc: 获得一本附魔书.
+    Error: '&c无效的品质!'
+    Done: 已给予 &6%enchant%&7 附魔给 &6%player%&7.
+Enchants:
+  DivineTouch:
+    Spawner: '&a刷怪笼 &7(%type%)'
+  Executioner:
+    Head: '&c%entity%的头'
+EntityType:
+  DROPPED_ITEM: 掉落的物品
+  EXPERIENCE_ORB: 经验球
+  AREA_EFFECT_CLOUD: 龙息
+  ELDER_GUARDIAN: 远古守护者
+  WITHER_SKELETON: 凋灵骷髅
+  STRAY: 流髑
+  EGG: 蛋
+  LEASH_HITCH: 拴绳
+  PAINTING: 画
+  ARROW: 箭
+  SNOWBALL: 雪球
+  FIREBALL: 火球
+  SMALL_FIREBALL: 小火球
+  ENDER_PEARL: 末影珍珠
+  ENDER_SIGNAL: 末影信号
+  SPLASH_POTION: 喷溅型药水
+  THROWN_EXP_BOTTLE: 扔出的经验瓶
+  ITEM_FRAME: 展示框
+  WITHER_SKULL: 凋灵骷髅头颅
+  PRIMED_TNT: 点燃的TNT
+  FALLING_BLOCK: 掉落的方块
+  FIREWORK: 烟花火箭
+  HUSK: 尸壳
+  SPECTRAL_ARROW: 光灵箭
+  SHULKER_BULLET: 潜影贝子弹
+  DRAGON_FIREBALL: 龙息弹
+  ZOMBIE_VILLAGER: 僵尸村民
+  SKELETON_HORSE: 骷髅马
+  ZOMBIE_HORSE: 僵尸马
+  ARMOR_STAND: 盔甲架
+  DONKEY: 驴
+  MULE: 骡
+  EVOKER_FANGS: 唤魔者尖牙
+  EVOKER: 唤魔者
+  VEX: 恼鬼
+  VINDICATOR: 卫道士
+  ILLUSIONER: 幻术师
+  MINECART_COMMAND: 命令方块矿车
+  BOAT: 船
+  MINECART: 矿车
+  MINECART_CHEST: 箱子矿车
+  MINECART_FURNACE: 熔炉矿车
+  MINECART_TNT: TNT矿车
+  MINECART_HOPPER: 漏斗矿车
+  MINECART_MOB_SPAWNER: 刷怪笼矿车
+  CREEPER: 爬行者
+  SKELETON: 骷髅
+  SPIDER: 蜘蛛
+  GIANT: 巨人
+  ZOMBIE: 僵尸
+  SLIME: 史莱姆
+  GHAST: 恶魂
+  PIG_ZOMBIE: 僵尸猪人
+  ENDERMAN: 末影人
+  CAVE_SPIDER: 洞穴蜘蛛
+  SILVERFISH: 蠹虫
+  BLAZE: 烈焰人
+  MAGMA_CUBE: 岩浆怪
+  ENDER_DRAGON: 末影龙
+  WITHER: 凋灵
+  BAT: 蝙蝠
+  WITCH: 女巫
+  ENDERMITE: 末影螨
+  GUARDIAN: 守护者
+  SHULKER: 潜影贝
+  PIG: 猪
+  SHEEP: 羊
+  COW: 牛
+  CHICKEN: 鸡
+  SQUID: 墨鱼
+  WOLF: 狼
+  MUSHROOM_COW: 哞菇
+  SNOWMAN: 雪傀儡
+  OCELOT: 豹猫
+  IRON_GOLEM: 铁傀儡
+  HORSE: 马
+  RABBIT: 兔子
+  POLAR_BEAR: 北极熊
+  LLAMA: 羊驼
+  LLAMA_SPIT: 羊驼口水
+  PARROT: 鹦鹉
+  VILLAGER: 村民
+  ENDER_CRYSTAL: 末影水晶
+  TURTLE: 海龟
+  PHANTOM: 幻翼
+  TRIDENT: 三叉戟
+  COD: 鳕鱼
+  SALMON: 鲑鱼
+  PUFFERFISH: 河豚
+  TROPICAL_FISH: 小丑鱼
+  DROWNED: 溺尸
+  DOLPHIN: 海豚
+  LINGERING_POTION: 滞留型药水
+  FISHING_HOOK: 钓鱼钩
+  LIGHTNING: 闪电
+  WEATHER: 天气
+  PLAYER: 玩家
+  COMPLEX_PART: 复杂成分
+  TIPPED_ARROW: 药箭
+  UNKNOWN: 未知
