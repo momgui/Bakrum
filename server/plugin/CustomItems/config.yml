@@ -1,0 +1,137 @@
+# The prefix for messages sent to players on your server
+#
+# default: "[CustomItems]"
+prefix: "[CustomItems]"
+
+
+# Minecraft items that are excluded from the permissions
+# customitem.info.native and customitem.inspect.native
+# this should likely be set to nothing, but is currently
+# set to diamond and emerald as an example.
+nativeItemPermissionExclusions:
+  - DIAMOND
+  - EMERALD
+
+
+# How custom blocks can be stored. Valid options are "yaml" and "mysql"
+#
+# "yaml" will store all custom blocks in the file blocks.yml
+#
+# "mysql" will store all custom blocks in a MySQL database. You
+# must provide the credentials for this database below under blockStorageMySQL
+#
+# If you were previously using YAML storage and would like to switch to MySQL,
+# change this to MySQL and enter the information under blockStorageMySQL below.
+# Then, restart your server, and run the command "customitems blockstorage migrate MySQL" FROM THE CONSOLE.
+# Once you verify that you would like to migrate from YAML to MySQL, everything will be migrated.
+# Likewise, to migrate from MySQL to YAML, run "customitems blockstorage migrate YAML" from the console.
+# Be careful! Migrating will slow down your server a lot, and could crash it if you don't have enough RAM allocated.
+#
+# default: yaml
+blockStorageFormat: yaml
+
+
+
+# Information about the MySQL Server for storing blocks
+# This is only used if blockStorageFormat above is set to "mysql"
+blockStorageMySQL:
+  #IP, port, and credentials to connect to the MySQL server
+  ip: localhost
+  port: 3306
+  username: username
+  password: password
+
+  # The database and table to store the custom items
+  database: database
+  table: CustomItemsBlocks
+
+  # The number of times to reconnect to the database after
+  # the connection fails or times out.
+  #
+  # If you experience errors with your MySQL server timing
+  # out, you should increase this number.
+  #
+  # Default: 4
+  maxReconnects: 4
+
+
+# Set to true if you want your server to crash if your items.yml file is invalid
+# This is NOT RECOMMENDED, and should only be used when a custom item being
+# treated as a normal Minecraft item, or one of the custom items not working
+# would have dire consequences.
+#
+# default: false
+forceCrashOnInvalidItem: false
+
+
+# Set to true if you want your server to crash if it can not connect to your MySQL server.
+# This is NOT RECOMMENDED, and should only be used when a custom block being
+# treated as a normal Minecraft block, or one of the custom blocks not working
+# would have dire consequences. If you're using yaml storage, your server will
+# never be forced to crash.
+#
+# default: false
+forceCrashOnInvalidMySQL: false
+
+# The language the plugin should use (some things may still be in english)
+# Valid languages as of now are "en" (english), "it" (italian), "cn" (chinese), and "de" (german)
+#
+# default: en
+language: en
+
+# Only has an effect for Minecraft versions 1.14 and up
+#
+# Before Minecraft 1.14, custom textures were added to items by giving
+# the items a custom damage value. However, in Minecraft 1.14, a new, better
+# way to do this was introduced. Set this to true if you want to use the old,
+# pre- Minecraft 1.14 resource pack format.
+# It is recommended that you keep this as "false";
+#
+# default: false
+useOldResourcePackFormat: false
+
+
+# Whether or not to force the user to download your server's resource pack
+#
+# Set this to true to automatically kick players from your server if they
+# decline or your resource pack or the download fails.
+# Keep in mind that this may have an adverse effect on your playerbase.
+#
+# Players with the permission customitems.resourcePack.ignore will not
+# be kicked
+#
+# default: false
+forceResourcePack: false
+
+# The message to send when a player declines your server's
+# Resource pack. You can use &color codes
+#
+# default: "You must accept the resource pack request"
+resourcePackDeclinedKickMessage: "You must accept the resource pack request"
+
+# The message to send when a player accepts your server's
+# resource pack, but the download fails. You can use &color codes
+#
+# default: "The resource pack did not successfully download. Please check your internet connection and try again in a few seconds. If you believe this is an error, please contact the server administrators."
+resourcePackDownloadFailedKickMessage: "The resource pack did not successfully download. Please check your internet connection and try again in a few seconds. If you believe this is an error, please contact the server administrators."
+
+# Whether or not to enable fallback block textures
+#
+# Set this to true to and players who do not have your resource pack downloaded
+# Will see the fallback Minecraft texture for custom textured blocks
+#
+# You can set a block's fallback texture under "fallback" in the "texture" section of the "blocks" section in your item yml file
+#
+# default: false
+doFallbackTextures: false
+
+# The default fallback texture for blocks
+#
+# If "doFallbackTextures" is "true", and a custom-textured block doesn't have a fallback texture,
+# players will see the block like this Minecraft block instead.
+#
+# You can ONLY set this to a Minecraft block (like "minecraft:GOLD_BLOCK" or "minecraft:COBBLESTONE") - can not be
+# an non-placeable item.
+#
+# default: NULL
+defaultFallbackTexture: NULL

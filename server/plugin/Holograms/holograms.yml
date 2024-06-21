@@ -1,0 +1,39 @@
+holograms:
+  mb2:
+    location: spawn;26.064065180705107;53.0;10.617664154157472;63.149727;272.1908
+    lines:
+    - §a§l=======================
+    - §l§bvers monde build
+    - §a§l=======================
+  mb:
+    location: spawn;70.43079437181025;63.0;10.505090823429729;88.79999;260.041
+    lines:
+    - §a§l=======================
+    - §l§b cette dimension est la dimension de build
+    - §l§b vous pouvez construire, pvp
+    - §l§bmais récoltez un minimum de resource dans ce monde
+    - §a§l=======================
+  mb3:
+    location: spawn;4.523426309419979;65.0;0.44247140281200803;90.0;267.24503
+    lines:
+    - §a§l=======================
+    - §l§bvers monde build
+    - §a§l=======================
+  mst:
+    location: spawn;0.32118255693444614;64.9375;-1.563403672581302;55.80032;175.85172
+    lines:
+    - §l§a========================
+    - §l§bvers monde souterrain
+    - §l§a========================
+  resource:
+    location: spawn;0.5125896468724178;65.0;5.140894758518889;87.449974;359.89362
+    lines:
+    - §l§a=======================
+    - §l§bvers monde resource
+    - §l§a=======================
+  resource2:
+    location: spawn;-7.355845412501619;53.0;40.38681658429433;81.30079;356.3335
+    lines:
+    - §l§a=================
+    - §l§b vers monde resource
+    - §l§a=================

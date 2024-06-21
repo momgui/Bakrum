@@ -1,0 +1,73 @@
+# The items that will be used in item GUIs,
+# such as when running /cui inspect or /cui info
+#
+# You could set these to custom items to get some cool effects
+# (see "referencing items" in either items/compressedCobblestone.yml or on the wiki at
+# https://github.com/jojodmo/CustomItems/wiki/Custom-Item-Reference if you're unsure how to do this)
+#
+# For example, you could make a new custom item that looks like a back button, and use
+# that for previousMenu
+
+menuItems:
+  previousMenu: "minecraft:OBSIDIAN"
+  information: "minecraft:PAPER"
+  making: "minecraft:ENDER_EYE"
+  crafting: "minecraft:CRAFTING_TABLE"
+  obtaining: "minecraft:COMPASS"
+  usage: "minecraft:DIAMOND_PICKAXE"
+  downArrow: "minecraft:GLASS_PANE"
+  upArrow: "minecraft:GLASS_PANE"
+  noPermission: "minecraft:RED_STAINED_GLASS_PANE"
+  craftingResultArrow: "minecraft:LIME_STAINED_GLASS_PANE"
+  relatedItemsLeftArrow: "minecraft:BLUE_STAINED_GLASS_PANE"
+  relatedItemsDownArrow: "minecraft:WHITE_STAINED_GLASS_PANE"
+  relatedItemsRightArrow: "minecraft:BLUE_STAINED_GLASS_PANE"
+
+# Whether or not categories should be enabled. Set to "true" to enable categories
+categoriesEnabled: false
+
+# Item Categories along with the items that represent them
+# You can add items to categories by setting "category" in
+# the item's YML file.
+#
+# Any item that doesn't have a category will be put in the
+# "miscellaneous" category by default.
+#
+# The format is
+#
+#   category:
+#     itemName: ...
+#     item: ...
+#
+# Where the item is the item that represents this category.
+# This can be a Minecraft item or a Custom Item. See referencing
+# items above.
+#
+# itemName is the name that appears in the Custom Item list inventory
+# You can use &color codes in this name
+categories:
+  miscellaneous:
+    itemName: "&dMiscellaneous"
+    item: "minecraft:DIAMOND_PICKAXE"
+
+
+
+#
+# DEFAULTS
+#
+
+# menuItems:
+#  previousMenu: "minecraft:OBSIDIAN"
+#  information: "minecraft:PAPER"
+#  making: "minecraft:ENDER_EYE"
+#  crafting: "minecraft:CRAFTING_TABLE"
+#  obtaining: "minecraft:COMPASS"
+#  usage: "minecraft:DIAMOND_PICKAXE"
+#  downArrow: "minecraft:GLASS_PANE"
+#  upArrow: "minecraft:GLASS_PANE"
+#  noPermission: "minecraft:RED_STAINED_GLASS_PANE"
+#  craftingResultArrow: "minecraft:LIME_STAINED_GLASS_PANE"
+#  relatedItemsLeftArrow: "minecraft:BLUE_STAINED_GLASS_PANE"
+#  relatedItemsDownArrow: "minecraft:WHITE_STAINED_GLASS_PANE"
+#  relatedItemsRightArrow: "minecraft:BLUE_STAINED_GLASS_PANE"
+
