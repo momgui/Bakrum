@@ -39,7 +39,7 @@ To run this Minecraft server locally, follow these steps:
     ```
 
 3. **Install dependencies**
-    Ensure you have the required version of the Minecraft server and any other dependencies mentioned in the `docs/INSTALLATION.md`.
+    Ensure you have the required version of the Minecraft server and any other dependencies.
 
 4. **Configure the server**
     Modify the `server.properties` and other configuration files as needed.
