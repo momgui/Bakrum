@@ -1,0 +1,106 @@
+# 
+# ==================
+config-version: 49
+language: en
+langutils-language: en_us
+dev-mode: false
+tax: 0.05
+tax-account: tax
+show-tax: false
+log-actions: true
+whole-number-prices-only: false
+force-bukkit-chat-handler: false
+disabled-metrics: false
+anonymous-metrics: false
+updater: true
+auto-report-errors: true
+include-offlineplayer-list: false
+economy-type: 0
+send-display-item-protection-alert: true
+database:
+  mysql: false
+  host: localhost
+  port: 3306
+  database: quickshop
+  user: root
+  password: passwd
+  prefix: none
+  usessl: false
+  queue: true
+limits:
+  use: false
+  default: 10
+  old-algorithm: false
+  ranks:
+    quickshop:
+      vip: 20
+shop-blocks:
+- CHEST
+- TRAPPED_CHEST
+- ENDER_CHEST
+shop:
+  cost: 10
+  refund: false
+  price-change-requires-fee: true
+  fee-for-price-change: 50
+  lock: true
+  sneak-to-create: false
+  sneak-to-trade: false
+  sneak-to-control: false
+  auto-sign: true
+  pay-unlimited-shop-owners: false
+  display-items: true
+  display-items-check-ticks: 6000
+  display-type: 0
+  find-distance: 45
+  alternate-currency-symbol: $
+  disable-vault-format: false
+  ignore-unlimited-shop-messages: false
+  special-region-only: false
+  auto-fetch-shop-messages: true
+  ignore-cancel-chat-event: false
+  allow-shop-without-space-for-sign: false
+  maximum-price: -1
+  sign-material: OAK_WALL_SIGN
+  blacklist-world:
+  - disabled_world_name
+  strict-matches-check: false
+  protection-checking: true
+  max-shops-checks-in-once: 100
+  display-item-use-name: true
+  update-sign-when-inventory-moving: true
+  allow-economy-loan: false
+blacklist:
+- Bedrock
+protect:
+  inventorymove: true
+  spread: true
+  fromto: true
+  entity: true
+  redstone: true
+  structuregrow: true
+  explode: true
+lockette:
+  enable: true
+  private: '[Private]'
+  more_users: '[More Users]'
+plugin:
+  Multiverse-Core: true
+  OpenInv: true
+effect:
+  sound:
+    ontabcomplete: true
+    oncommand: true
+    onclick: true
+matcher:
+  item:
+    damage: true
+    repaircost: false
+    displayname: true
+    lores: true
+    enchs: true
+    potions: true
+    attributes: true
+    itemflags: true
+    custommodeldata: true
+server-uuid: 81da0dfb-ae4e-475e-b144-3e07097a63fd

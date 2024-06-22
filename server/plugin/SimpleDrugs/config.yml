@@ -1,0 +1,8 @@
+# Simple Drugs Config.
+Drugs:
+  Toggle:
+    wheat: true
+    sugar: true
+    paper: true
+  Effect:
+    length: 5220

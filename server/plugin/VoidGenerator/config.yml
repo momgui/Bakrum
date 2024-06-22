@@ -1,0 +1,4 @@
+# This is the main configuration file for VoidGenerator
+#  Possible Biomes: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/block/Biome.html
+check_for_updates: true
+enable_metrics: true

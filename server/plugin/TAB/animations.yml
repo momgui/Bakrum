@@ -1,0 +1,344 @@
+#usage: %animation:NAME%  or  {animation:NAME}
+animations:
+  MyAnimation1:
+    #in MILLISECONDS
+    change-interval: 100
+    texts:
+      - "&d-&3--------------"
+      - "&3-&d-&3-------------"
+      - "&3--&d-&3------------"
+      - "&3---&d-&3-----------"
+      - "&3----&d-&3----------"
+      - "&3-----&d-&3---------"
+      - "&3------&d-&3--------"
+      - "&3-------&d-&3-------"
+      - "&3--------&d-&3------"
+      - "&3---------&d-&3-----"
+      - "&3----------&d-&3----"
+      - "&3-----------&d-&3---"
+      - "&3------------&d-&3--"
+      - "&3-------------&d-&3-"
+      - "&3--------------&d-"
+      - "&3-------------&d-&3-"
+      - "&3------------&d-&3--"
+      - "&3-----------&d-&3---"
+      - "&3----------&d-&3----"
+      - "&3---------&d-&3-----"
+      - "&3--------&d-&3------"
+      - "&3-------&d-&3-------"
+      - "&3------&d-&3--------"
+      - "&3-----&d-&3---------"
+      - "&3----&d-&3----------"
+      - "&3---&d-&3-----------"
+      - "&3--&d-&3------------"
+      - "&3-&d-&3-------------"
+      - "&d-&3--------------"
+  ServerName:
+    change-interval: 300
+    texts:
+      - "&c&lBakrum"
+      - "&c&n&lBakrum"
+      - "&b&lBakrum"
+      - "&b&l&nBakrum"
+      - "&e&lBakrum"
+      - "&e&n&lBakrum"
+  web:
+    change-interval: 200
+    texts:
+   #usage: %animation:NAME%  or  {animation:NAME}
+animations:
+  MyAnimation1:
+    #in MILLISECONDS
+    change-interval: 100
+    texts:
+      - "&d-&3--------------"
+      - "&3-&d-&3-------------"
+      - "&3--&d-&3------------"
+      - "&3---&d-&3-----------"
+      - "&3----&d-&3----------"
+      - "&3-----&d-&3---------"
+      - "&3------&d-&3--------"
+      - "&3-------&d-&3-------"
+      - "&3--------&d-&3------"
+      - "&3---------&d-&3-----"
+      - "&3----------&d-&3----"
+      - "&3-----------&d-&3---"
+      - "&3------------&d-&3--"
+      - "&3-------------&d-&3-"
+      - "&3--------------&d-"
+      - "&3-------------&d-&3-"
+      - "&3------------&d-&3--"
+      - "&3-----------&d-&3---"
+      - "&3----------&d-&3----"
+      - "&3---------&d-&3-----"
+      - "&3--------&d-&3------"
+      - "&3-------&d-&3-------"
+      - "&3------&d-&3--------"
+      - "&3-----&d-&3---------"
+      - "&3----&d-&3----------"
+      - "&3---&d-&3-----------"
+      - "&3--&d-&3------------"
+      - "&3-&d-&3-------------"
+      - "&d-&3--------------"
+  ServerName:
+    change-interval: 300
+    texts:
+      - "&c&lBakrum"
+      - "&c&n&lBakrum"
+      - "&b&lBakrum"
+      - "&b&l&nBakrum"
+      - "&e&lBakrum"
+      - "&e&n&lBakrum"
+  web:
+    change-interval: 200
+    texts:
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&6h&ettps://bakrum.wixsite.com/website"
+      - "&eh&6t&etps://bakrum.wixsite.com/website"
+      - "&eht&6t&eps://bakrum.wixsite.com/website"
+      - "&ehtt&6p&es://bakrum.wixsite.com/website"
+      - "&ehttp&6s&e://bakrum.wixsite.com/website"
+      - "&ehttps&6:&e//bakrum.wixsite.com/website"
+      - "&ehttps:&6/&e/bakrum.wixsite.com/website"
+      - "&ehttps:/&6/&ebakrum.wixsite.com/website"
+      - "&ehttps://&6b&akrum.wixsite.com/website"
+      - "&ehttps://b&6a&ekrum.wixsite.com/website"
+      - "&ehttps://ba&6k&erum.wixsite.com/website"
+      - "&ehttps://bak&6r&eum.wixsite.com/website"
+      - "&ehttps://bakr&6u&em.wixsite.com/website"
+      - "&ehttps://bakru&6m&e.wixsite.com/website"
+      - "&ehttps://bakrum&6.&ewixsite.com/website"
+      - "&ehttps://bakrum.&6w&eixsite.com/website"
+      - "&ehttps://bakrum.w&6i&exsite.com/website"
+      - "&ehttps://bakrum.wi&6x&esite.com/website"
+      - "&ehttps://bakrum.wix&6i&ete.com/website"
+      - "&ehttps://bakrum.wixs&6i&ete.com/website"
+      - "&ehttps://bakrum.wixsi&6t&ee.com/website"
+      - "&ehttps://bakrum.wixsit&6e&e.com/website"
+      - "&ehttps://bakrum.wixsite&6.&ecom/website"
+      - "&ehttps://bakrum.wixsite.&6c&eom/website"
+      - "&ehttps://bakrum.wixsite.c&6o&em/website"
+      - "&ehttps://bakrum.wixsite.co&6m&e/website"
+      - "&ehttps://bakrum.wixsite.com&6/&ewebsite"
+      - "&ehttps://bakrum.wixsite.com/&6w&eebsite"
+      - "&ehttps://bakrum.wixsite.com/w&6e&ebsite"
+      - "&ehttps://bakrum.wixsite.com/we&6b&esite"
+      - "&ehttps://bakrum.wixsite.com/web&6s&eite"
+      - "&ehttps://bakrum.wixsite.com/webs&6i&ete"
+      - "&ehttps://bakrum.wixsite.com/websi&6t&ee"
+      - "&ehttps://bakrum.wixsite.com/websit&6e"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+      - "&ehttps://bakrum.wixsite.com/website"
+  vote:
+    change-interval: 1000
+    texts:
+      - "&avote.domain.com"
+      - "&a&nvote.domain.com"
+      - "&5vote.domain.com"
+      - "&5&nvote.domain.com"
+  Welcome:
+    change-interval: 400
+    texts:
+      - "&7&lW_"
+      - "&7&lW_"
+      - "&7&lWe_"
+      - "&7&lWel_"
+      - "&7&lWelc_"
+      - "&7&lWelco_"
+      - "&7&lWelcom_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcom_"
+      - "&7&lWelco_"
+      - "&7&lWelc_"
+      - "&7&lWel_"
+      - "&7&lWe_"
+      - "&7&lW_"
+      - "&7&lW_"
+  time:
+    change-interval: 900
+    texts:
+      - "&7Time &b%time%"
+      - "&7> Time &b%time% &7<"
+      - "&7>> Time &b%time% &7<<"
+      - "&7>>> Time &b%time% &7<<<"
+      - "&7Date &b%date%"
+      - "&7> Date &b%date% &7<"
+      - "&7>> Date &b%date% &7<<"
+      - "&7>>> Date &b%date% &7<<<"
+  ping-tps:
+    change-interval: 5000
+    texts:
+      - "&aPing: &2&n%ping%&r &ams"
+      - "&bServer TPS: &8%tps%"
+  versions:
+    change-interval: 1000
+    texts:
+      - "Online players with MC 1.14.x : %version-group:1-14-x%"
+      - "Online players with MC 1.13.x : %version-group:1-13-x%"
+      - "Online players with MC 1.12.x : %version-group:1-12-x%"
+      - "Online players with MC 1.11.x : %version-group:1-11-x%"
+      - "Online players with MC 1.10.x : %version-group:1-10-x%"
+      - "Online players with MC 1.9.x : %version-group:1-9-x%"
+      - "Online players with MC 1.8.x : %version-group:1-8-x%"
+      - "Online players with MC 1.7.x : %version-group:1-7-x%"
+      - "Online players with MC 1.6.x : %version-group:1-6-x%"
+      - "Online players with MC 1.5.x : %version-group:1-5-x%"
+      - "Online players with unknown version: %version-group:other%"
+  admin_prefix:
+    change-interval: 200
+    texts:
+      - "&6&lAdmin &e"
+      - "&6&lAdmin &e"
+      - "&9&lAdmin &e"
+      - "&9&lAdmin &e"
+      - "&4&lAdmin &e"
+      - "&4&lAdmin &e"
+      - "&3&lAdmin &e"
+      - "&3&lAdmin &e"
+      - "&2&lAdmin &e"
+      - "&2&lAdmin &e"
+      - "&d&lAdmin &e"
+      - "&d&lAdmin &e"
+      - "&f&lAdmin &e"
+      - "&f&lAdmi &e"
+      - "&f&lAdm &e"
+      - "&f&lAd &e"
+      - "&f&lA &e"
+      - "&f&lAd &e"
+      - "&f&lAdm &e"
+      - "&f&lAdmi &e"
+      - "&f&lAdmin &e"
+  barcolors:
+    change-interval: 1000
+    texts:
+      - "RED"
+      - "BLUE"
+      - "GREEN"
+      - "YELLOW"
+  test:
+    change-interval: 100
+    texts:
+      - "100"
+      - "90"
+      - "80"
+      - "70"
+      - "60"
+      - "50"
+      - "40"
+      - "30"
+      - "20"
+      - "10"
+      - "0"
+  vote:
+    change-interval: 1000
+    texts:
+      - "&avote.domain.com"
+      - "&a&nvote.domain.com"
+      - "&5vote.domain.com"
+      - "&5&nvote.domain.com"
+  Welcome:
+    change-interval: 400
+    texts:
+      - "&7&lW_"
+      - "&7&lW_"
+      - "&7&lWe_"
+      - "&7&lWel_"
+      - "&7&lWelc_"
+      - "&7&lWelco_"
+      - "&7&lWelcom_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcome_"
+      - "&7&lWelcom_"
+      - "&7&lWelco_"
+      - "&7&lWelc_"
+      - "&7&lWel_"
+      - "&7&lWe_"
+      - "&7&lW_"
+      - "&7&lW_"
+  time:
+    change-interval: 900
+    texts:
+      - "&7Time &b%time%"
+      - "&7> Time &b%time% &7<"
+      - "&7>> Time &b%time% &7<<"
+      - "&7>>> Time &b%time% &7<<<"
+      - "&7Date &b%date%"
+      - "&7> Date &b%date% &7<"
+      - "&7>> Date &b%date% &7<<"
+      - "&7>>> Date &b%date% &7<<<"
+  ping-tps:
+    change-interval: 5000
+    texts:
+      - "&aPing: &2&n%ping%&r &ams"
+      - "&bServer TPS: &8%tps%"
+  versions:
+    change-interval: 1000
+    texts:
+      - "Online players with MC 1.14.x : %version-group:1-14-x%"
+      - "Online players with MC 1.13.x : %version-group:1-13-x%"
+      - "Online players with MC 1.12.x : %version-group:1-12-x%"
+      - "Online players with MC 1.11.x : %version-group:1-11-x%"
+      - "Online players with MC 1.10.x : %version-group:1-10-x%"
+      - "Online players with MC 1.9.x : %version-group:1-9-x%"
+      - "Online players with MC 1.8.x : %version-group:1-8-x%"
+      - "Online players with MC 1.7.x : %version-group:1-7-x%"
+      - "Online players with MC 1.6.x : %version-group:1-6-x%"
+      - "Online players with MC 1.5.x : %version-group:1-5-x%"
+      - "Online players with unknown version: %version-group:other%"
+  admin_prefix:
+    change-interval: 200
+    texts:
+      - "&6&lAdmin &e"
+      - "&6&lAdmin &e"
+      - "&9&lAdmin &e"
+      - "&9&lAdmin &e"
+      - "&4&lAdmin &e"
+      - "&4&lAdmin &e"
+      - "&3&lAdmin &e"
+      - "&3&lAdmin &e"
+      - "&2&lAdmin &e"
+      - "&2&lAdmin &e"
+      - "&d&lAdmin &e"
+      - "&d&lAdmin &e"
+      - "&f&lAdmin &e"
+      - "&f&lAdmi &e"
+      - "&f&lAdm &e"
+      - "&f&lAd &e"
+      - "&f&lA &e"
+      - "&f&lAd &e"
+      - "&f&lAdm &e"
+      - "&f&lAdmi &e"
+      - "&f&lAdmin &e"
+  barcolors:
+    change-interval: 1000
+    texts:
+      - "RED"
+      - "BLUE"
+      - "GREEN"
+      - "YELLOW"
+  test:
+    change-interval: 100
+    texts:
+      - "100"
+      - "90"
+      - "80"
+      - "70"
+      - "60"
+      - "50"
+      - "40"
+      - "30"
+      - "20"
+      - "10"
+      - "0"

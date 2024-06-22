@@ -1,0 +1,13 @@
+# AutoBroadcast by kixmc
+# ...
+# Hey! Did you know you can use some snazzy commands in-game to change almost
+# all of these settings? Use "/announcer" OR "/an" in-game!
+# ...
+messages:
+- '::: &l&a=============================================&l&ben cas de plainte ou juste
+  pour discuter et montrer vos créations https://discord.gg/DMVZ5c8&l&a============================================='
+broadcasts-enabled: 'true'
+announce_interval: 60
+temp-prefix: none
+prefix: '[&4ANNONCE&f] '
+broadcast-interval: 600

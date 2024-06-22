@@ -1,0 +1,25 @@
+# What projectile catches the creature.
+Projectile Catcher: EGG
+# Cost Mode: [ NONE, ITEM, VAULT ]
+Cost Mode: ITEM
+# When in ITEM mode, a player must have this item to catch a creature.
+Cost Item: REDSTONE
+Cost Amount: 1
+# When in VAULT mode, a player must have at least this amount of money.
+Cost Vault: 100
+# In these worlds, you cannot capture or release creatures.
+Disabled Worlds: []
+# Should eggs take the color of the creature they belong to?
+Colored Eggs: true
+# Should we hook into Towny
+Towny Hook: false
+# Are you using GriefPrevention?
+GriefPrevention Hook: false
+# Allow capturing creatures with melee
+MeleeCapture: true
+# Require projectile to contain key metadata.
+Require Unique: false
+# With '/mobcapture spawn', a projectile will be spawned with these values (only with Require Unique enabled).
+Unique Display Name: '&6Mob Catcher'
+Unique Lore:
+  - '&3Shoot a mob with me!'

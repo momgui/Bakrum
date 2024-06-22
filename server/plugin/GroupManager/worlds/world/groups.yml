@@ -1,0 +1,161 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&5'
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - -vanish.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&4'
+      suffix: ''
+  Citoyen:
+    default: false
+    permissions:
+    - brewery.user
+    - chestsort.use
+    - chestsort.use.inventory
+    - drugs.*
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.afk.message
+    - essentials.balancetop
+    - essentials.build
+    - essentials.enderchest
+    - essentials.help
+    - essentials.help.[pluginname]
+    - essentials.help.[pluginname].[command]
+    - essentials.home.bed
+    - essentials.keepinv
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.msg
+    - essentials.msgbrewery.userchestsort.usechestsort.use.inventoryessentials.afkessentials.afk.messageessentials.balancetopessentials.build
+    - essentials.pay
+    - essentials.payconfirmtoggle
+    - essentials.sell
+    - essentials.sell.hand
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpacancel
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - goldenenchants.user
+    - jobs.command.*
+    - jobs.command.browse
+    - jobs.join.[jobname]
+    - jobs.petpay
+    - jobs.use
+    - MobCapture.Catch.*
+    - multiverse.portal.access.*
+    - MyPet.command.capturehelper
+    - MyPet.command.info.other
+    - MyPet.command.name
+    - MyPet.command.name.color
+    - MyPet.command.release
+    - MyPet.command.respawn
+    - MyPet.command.store
+    - MyPet.command.trade.offer.<MyPet-Type>
+    - MyPet.command.trade.receive.<MyPet-Type>
+    - MyPet.leash.<MyPet-Type>
+    - MyPet.petstorage.limit.<limit>
+    - MyPet.shop.access.<shopname>
+    - MyPet.shop.storage
+    - MyPet.skilltree.<skilltreename>
+    inheritance: []
+    info:
+      build: false
+      prefix: '&l[&7Citoyen&f] &7'
+      suffix: ''
+  Dieu:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      build: false
+      prefix: '[&2D&ei&be&4u&f]'
+      suffix: ''
+  Builder:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&2'
+      suffix: ''
+  Demi-Dieu:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      build: false
+      prefix: ''
+      suffix: ''
+  Ancien:
+    default: false
+    permissions: []
+    inheritance:
+    - citoyen
+    info:
+      build: false
+      prefix: '&l[&2Ancien&f] &2'
+      suffix: ''
+  Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&c'
+      suffix: ''
+  Default:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    info:
+      build: false
+      prefix: '&e'
+      suffix: ''

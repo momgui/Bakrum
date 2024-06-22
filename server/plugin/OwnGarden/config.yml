@@ -1,0 +1,43 @@
+# OwnGarden Configuration File
+enable:
+  updater: true
+  metrics: true
+schematics:
+  directory: plugins/OwnGarden/schematics
+  random-rotation: true
+  check-height: false
+  remove-worldedit-metadata: true
+sapling:
+  oak:
+  - oak/1.schematic
+  - oak/2.schematic
+  - oak/3.schematic
+  spruce:
+  - spruce/1.schematic
+  - spruce/2.schematic
+  - spruce/3.schematic
+  birch:
+  - birch/1.schematic
+  - birch/2.schematic
+  - birch/3.schematic
+  jungle:
+  - jungle/1.schematic
+  - jungle/2.schematic
+  - jungle/3.schematic
+  acacia:
+  - acacia/1.schematic
+  - acacia/2.schematic
+  - acacia/3.schematic
+  dark-oak:
+  - dark_oak/1.schematic
+  - dark_oak/2.schematic
+  - dark_oak/3.schematic
+mushroom:
+  brown:
+  - brown_mushroom/1.schem
+  - brown_mushroom/2.schem
+  - brown_mushroom/3.schem
+  red:
+  - red_mushroom/1.schem
+  - red_mushroom/2.schem
+  - red_mushroom/3.schem

@@ -1,0 +1,31 @@
+users:
+  78178e91-c7dc-4bf0-a500-2544bc41062d:
+    lastname: ACham75
+    group: Demi-Dieu
+    subgroups: []
+    permissions: []
+  78ca73fb-ef0f-4ce9-836a-ad7274f679bb:
+    lastname: Salbator
+    group: Dieu
+    subgroups: []
+    permissions: []
+  a6176b86-76cd-4191-905a-8cf82a64dd85:
+    lastname: Blockor1000
+    group: Dieu
+    subgroups: []
+    permissions: []
+  aaff085c-033d-4cb7-9818-caa2bf28b430:
+    lastname: vH_Whiiz
+    group: Dieu
+    subgroups: []
+    permissions: []
+  eaf7ffe4-9306-49a6-9048-80f698e71bfd:
+    lastname: MOMGUI
+    group: Dieu
+    subgroups: []
+    permissions: []
+  example:
+    group: Builder
+    subgroups: []
+    permissions:
+    - example
