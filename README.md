@@ -30,7 +30,7 @@ To run this Minecraft server locally, follow these steps:
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/bakrum-server.git
+    git clone https://github.com/momgui/bakrum-server.git
     ```
 
 2. **Navigate to the project directory**
