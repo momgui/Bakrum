@@ -1,0 +1,20 @@
+lastAccountName: rush93
+timestamps:
+  login: 1569680602256
+  logout: 1569680766618
+ipAddress: 91.169.128.164
+geolocation: France
+lastlocation:
+  world: spawn
+  x: 0.4568496719552338
+  y: 64.0
+  z: 0.6386136325115567
+  yaw: 270.35263
+  pitch: -3.899833
+logoutlocation:
+  world: spawn
+  x: 72.0537949910356
+  y: 61.0
+  z: 11.631301955834742
+  yaw: -181.07509
+  pitch: 15.863989

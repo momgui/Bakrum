@@ -1,0 +1,20 @@
+lastAccountName: MaksAgain
+timestamps:
+  login: 1569682304198
+  logout: 1569682545964
+ipAddress: 84.100.145.118
+geolocation: France
+lastlocation:
+  world: spawn
+  x: 0.4568496719552338
+  y: 64.0
+  z: 0.6386136325115567
+  yaw: 270.35263
+  pitch: -3.899833
+logoutlocation:
+  world: spawn
+  x: 0.0
+  y: 64.0
+  z: 0.0
+  yaw: 15.750029
+  pitch: 2.549998

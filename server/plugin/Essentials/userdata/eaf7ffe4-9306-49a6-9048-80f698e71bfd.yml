@@ -1,0 +1,36 @@
+lastlocation:
+  world: resource
+  x: -266.81873971991854
+  y: 81.0
+  z: -411.92399671270255
+  yaw: 163.34375
+  pitch: 33.449768
+logoutlocation:
+  world: test
+  x: 143.72095008908045
+  y: 86.37882455571875
+  z: 174.23444404663007
+  yaw: 135.46814
+  pitch: 27.150103
+timestamps:
+  logout: 1571414360327
+  login: 1571413674356
+  lastteleport: 1570896179833
+lastAccountName: MOMGUI
+ipAddress: 86.252.162.54
+afk: false
+money: '464.2675000000000515'
+homes:
+  ilevolante:
+    world: test
+    x: 954.2448364719013
+    y: 13.864022849711839
+    z: 1013.044129190598
+    yaw: 316.64612
+    pitch: 23.012417
+mail:
+- §6[§rvH_Whiiz§6] §rJ'ai terminer la salle a drogue et putes dites moi ce que vous
+  en pensez :p ne rien casser !!! sinon ban 1 jour dsl ^^
+godmode: true
+geolocation: France
+nickname: MOMGUI

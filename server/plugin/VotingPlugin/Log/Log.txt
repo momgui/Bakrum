@@ -1,0 +1,624 @@
+Tue, 10 Sep 2019 18:35 [VotingPlugin] Debug: Loaded VoteSites
+Tue, 10 Sep 2019 18:35 [VotingPlugin] Debug: Detected using spigot
+Tue, 10 Sep 2019 18:35 [VotingPlugin] Debug: Server in online mode
+Tue, 10 Sep 2019 18:35 [VotingPlugin] Debug: Loaded rewards
+Tue, 10 Sep 2019 18:40 [VotingPlugin] Debug: Loaded VoteSites
+Tue, 10 Sep 2019 18:40 [VotingPlugin] Debug: Detected using spigot
+Tue, 10 Sep 2019 18:40 [VotingPlugin] Debug: Server in online mode
+Tue, 10 Sep 2019 18:40 [VotingPlugin] Debug: Loaded rewards
+Wed, 11 Sep 2019 14:38 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 11 Sep 2019 14:38 [VotingPlugin] Debug: Detected using spigot
+Wed, 11 Sep 2019 14:38 [VotingPlugin] Debug: Server in online mode
+Wed, 11 Sep 2019 14:38 [VotingPlugin] Debug: Loaded rewards
+Wed, 11 Sep 2019 14:40 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 11 Sep 2019 14:40 [VotingPlugin] Debug: Detected using spigot
+Wed, 11 Sep 2019 14:40 [VotingPlugin] Debug: Server in online mode
+Wed, 11 Sep 2019 14:40 [VotingPlugin] Debug: Loaded rewards
+Wed, 11 Sep 2019 14:58 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 11 Sep 2019 14:58 [VotingPlugin] Debug: Detected using spigot
+Wed, 11 Sep 2019 14:58 [VotingPlugin] Debug: Server in online mode
+Wed, 11 Sep 2019 14:58 [VotingPlugin] Debug: Loaded rewards
+Wed, 11 Sep 2019 15:03 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 11 Sep 2019 15:03 [VotingPlugin] Debug: Detected using spigot
+Wed, 11 Sep 2019 15:03 [VotingPlugin] Debug: Server in online mode
+Wed, 11 Sep 2019 15:03 [VotingPlugin] Debug: Loaded rewards
+Wed, 11 Sep 2019 15:22 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 11 Sep 2019 15:22 [VotingPlugin] Debug: Detected using spigot
+Wed, 11 Sep 2019 15:22 [VotingPlugin] Debug: Server in online mode
+Wed, 11 Sep 2019 15:22 [VotingPlugin] Debug: Loaded rewards
+Wed, 11 Sep 2019 15:26 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 11 Sep 2019 15:26 [VotingPlugin] Debug: Detected using spigot
+Wed, 11 Sep 2019 15:26 [VotingPlugin] Debug: Server in online mode
+Wed, 11 Sep 2019 15:26 [VotingPlugin] Debug: Loaded rewards
+Wed, 11 Sep 2019 22:06 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 11 Sep 2019 22:06 [VotingPlugin] Debug: Detected using spigot
+Wed, 11 Sep 2019 22:06 [VotingPlugin] Debug: Server in online mode
+Wed, 11 Sep 2019 22:06 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 15:35 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 15:35 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 15:35 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 15:35 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 15:54 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 15:54 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 15:54 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 15:54 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 16:01 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 16:01 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 16:01 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 16:01 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 16:56 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 16:56 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 16:56 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 16:56 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 19:10 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 19:10 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 19:10 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 19:10 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 19:32 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 19:32 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 19:32 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 19:32 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 19:39 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 19:39 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 19:39 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 19:39 [VotingPlugin] Debug: Loaded rewards
+Thu, 12 Sep 2019 19:44 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 12 Sep 2019 19:44 [VotingPlugin] Debug: Detected using spigot
+Thu, 12 Sep 2019 19:44 [VotingPlugin] Debug: Server in online mode
+Thu, 12 Sep 2019 19:44 [VotingPlugin] Debug: Loaded rewards
+Sat, 14 Sep 2019 11:45 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 14 Sep 2019 11:45 [VotingPlugin] Debug: Detected using spigot
+Sat, 14 Sep 2019 11:45 [VotingPlugin] Debug: Server in online mode
+Sat, 14 Sep 2019 11:45 [VotingPlugin] Debug: Loaded rewards
+Sat, 14 Sep 2019 12:29 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 14 Sep 2019 12:29 [VotingPlugin] Debug: Detected using craftbukkit
+Sat, 14 Sep 2019 12:29 [VotingPlugin] Debug: Server in online mode
+Sat, 14 Sep 2019 12:29 [VotingPlugin] Debug: Loaded rewards
+Sat, 14 Sep 2019 12:37 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 14 Sep 2019 12:37 [VotingPlugin] Debug: Detected using spigot
+Sat, 14 Sep 2019 12:37 [VotingPlugin] Debug: Server in online mode
+Sat, 14 Sep 2019 12:37 [VotingPlugin] Debug: Loaded rewards
+Sun, 15 Sep 2019 12:12 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 15 Sep 2019 12:12 [VotingPlugin] Debug: Detected using spigot
+Sun, 15 Sep 2019 12:12 [VotingPlugin] Debug: Server in online mode
+Sun, 15 Sep 2019 12:12 [VotingPlugin] Debug: Loaded rewards
+Sun, 15 Sep 2019 12:16 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 15 Sep 2019 12:16 [VotingPlugin] Debug: Detected using spigot
+Sun, 15 Sep 2019 12:16 [VotingPlugin] Debug: Server in online mode
+Sun, 15 Sep 2019 12:16 [VotingPlugin] Debug: Loaded rewards
+Sun, 15 Sep 2019 12:20 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 15 Sep 2019 12:20 [VotingPlugin] Debug: Detected using spigot
+Sun, 15 Sep 2019 12:20 [VotingPlugin] Debug: Server in online mode
+Sun, 15 Sep 2019 12:20 [VotingPlugin] Debug: Loaded rewards
+Sun, 15 Sep 2019 12:27 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 15 Sep 2019 12:27 [VotingPlugin] Debug: Detected using spigot
+Sun, 15 Sep 2019 12:27 [VotingPlugin] Debug: Server in online mode
+Sun, 15 Sep 2019 12:27 [VotingPlugin] Debug: Loaded rewards
+Sun, 15 Sep 2019 12:28 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 15 Sep 2019 12:28 [VotingPlugin] Debug: Detected using spigot
+Sun, 15 Sep 2019 12:28 [VotingPlugin] Debug: Server in online mode
+Sun, 15 Sep 2019 12:28 [VotingPlugin] Debug: Loaded rewards
+Sun, 15 Sep 2019 12:34 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 15 Sep 2019 12:34 [VotingPlugin] Debug: Detected using spigot
+Sun, 15 Sep 2019 12:34 [VotingPlugin] Debug: Server in online mode
+Sun, 15 Sep 2019 12:34 [VotingPlugin] Debug: Loaded rewards
+Sun, 15 Sep 2019 12:39 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 15 Sep 2019 12:39 [VotingPlugin] Debug: Detected using spigot
+Sun, 15 Sep 2019 12:39 [VotingPlugin] Debug: Server in online mode
+Sun, 15 Sep 2019 12:39 [VotingPlugin] Debug: Loaded rewards
+Tue, 17 Sep 2019 17:58 [VotingPlugin] Debug: Loaded VoteSites
+Tue, 17 Sep 2019 17:58 [VotingPlugin] Debug: Detected using spigot
+Tue, 17 Sep 2019 17:58 [VotingPlugin] Debug: Server in online mode
+Tue, 17 Sep 2019 17:58 [VotingPlugin] Debug: Loaded rewards
+Wed, 18 Sep 2019 16:08 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 18 Sep 2019 16:08 [VotingPlugin] Debug: Detected using spigot
+Wed, 18 Sep 2019 16:08 [VotingPlugin] Debug: Server in online mode
+Wed, 18 Sep 2019 16:08 [VotingPlugin] Debug: Loaded rewards
+Wed, 18 Sep 2019 21:46 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 18 Sep 2019 21:46 [VotingPlugin] Debug: Detected using spigot
+Wed, 18 Sep 2019 21:46 [VotingPlugin] Debug: Server in online mode
+Wed, 18 Sep 2019 21:46 [VotingPlugin] Debug: Loaded rewards
+Thu, 19 Sep 2019 17:08 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 19 Sep 2019 17:08 [VotingPlugin] Debug: Detected using spigot
+Thu, 19 Sep 2019 17:08 [VotingPlugin] Debug: Server in online mode
+Thu, 19 Sep 2019 17:08 [VotingPlugin] Debug: Loaded rewards
+Thu, 19 Sep 2019 17:16 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 19 Sep 2019 17:16 [VotingPlugin] Debug: Detected using spigot
+Thu, 19 Sep 2019 17:16 [VotingPlugin] Debug: Server in online mode
+Thu, 19 Sep 2019 17:16 [VotingPlugin] Debug: Loaded rewards
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Detected using spigot
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Server in online mode
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Loaded rewards
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Detected using spigot
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Server in online mode
+Thu, 19 Sep 2019 17:27 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 16:20 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 16:20 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 16:20 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 16:20 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 16:30 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 16:30 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 16:30 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 16:30 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 16:32 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 16:32 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 16:32 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 16:32 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 16:37 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 16:37 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 16:37 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 16:37 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 17:03 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 17:03 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 17:03 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 17:03 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 17:05 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 17:05 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 17:05 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 17:05 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 17:20 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 17:20 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 17:20 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 17:20 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 17:24 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 17:24 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 17:24 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 17:24 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 17:32 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 17:32 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 17:32 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 17:32 [VotingPlugin] Debug: Loaded rewards
+Fri, 20 Sep 2019 17:35 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 20 Sep 2019 17:35 [VotingPlugin] Debug: Detected using spigot
+Fri, 20 Sep 2019 17:35 [VotingPlugin] Debug: Server in online mode
+Fri, 20 Sep 2019 17:35 [VotingPlugin] Debug: Loaded rewards
+Sun, 22 Sep 2019 13:03 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 22 Sep 2019 13:03 [VotingPlugin] Debug: Detected using spigot
+Sun, 22 Sep 2019 13:03 [VotingPlugin] Debug: Server in online mode
+Sun, 22 Sep 2019 13:03 [VotingPlugin] Debug: Loaded rewards
+Sun, 22 Sep 2019 13:10 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 22 Sep 2019 13:10 [VotingPlugin] Debug: Detected using spigot
+Sun, 22 Sep 2019 13:10 [VotingPlugin] Debug: Server in online mode
+Sun, 22 Sep 2019 13:10 [VotingPlugin] Debug: Loaded rewards
+Sun, 22 Sep 2019 13:21 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 22 Sep 2019 13:21 [VotingPlugin] Debug: Detected using spigot
+Sun, 22 Sep 2019 13:21 [VotingPlugin] Debug: Server in online mode
+Sun, 22 Sep 2019 13:21 [VotingPlugin] Debug: Loaded rewards
+Sun, 22 Sep 2019 13:27 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 22 Sep 2019 13:27 [VotingPlugin] Debug: Detected using spigot
+Sun, 22 Sep 2019 13:27 [VotingPlugin] Debug: Server in online mode
+Sun, 22 Sep 2019 13:27 [VotingPlugin] Debug: Loaded rewards
+Sun, 22 Sep 2019 14:09 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 22 Sep 2019 14:09 [VotingPlugin] Debug: Detected using spigot
+Sun, 22 Sep 2019 14:09 [VotingPlugin] Debug: Server in online mode
+Sun, 22 Sep 2019 14:09 [VotingPlugin] Debug: Loaded rewards
+Sun, 22 Sep 2019 14:10 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 22 Sep 2019 14:10 [VotingPlugin] Debug: Detected using spigot
+Sun, 22 Sep 2019 14:10 [VotingPlugin] Debug: Server in online mode
+Sun, 22 Sep 2019 14:10 [VotingPlugin] Debug: Loaded rewards
+Wed, 25 Sep 2019 12:57 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 25 Sep 2019 12:57 [VotingPlugin] Debug: Detected using spigot
+Wed, 25 Sep 2019 12:57 [VotingPlugin] Debug: Server in online mode
+Wed, 25 Sep 2019 12:57 [VotingPlugin] Debug: Loaded rewards
+Wed, 25 Sep 2019 13:05 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 25 Sep 2019 13:05 [VotingPlugin] Debug: Detected using spigot
+Wed, 25 Sep 2019 13:05 [VotingPlugin] Debug: Server in online mode
+Wed, 25 Sep 2019 13:05 [VotingPlugin] Debug: Loaded rewards
+Wed, 25 Sep 2019 13:23 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 25 Sep 2019 13:23 [VotingPlugin] Debug: Detected using spigot
+Wed, 25 Sep 2019 13:23 [VotingPlugin] Debug: Server in online mode
+Wed, 25 Sep 2019 13:23 [VotingPlugin] Debug: Loaded rewards
+Wed, 25 Sep 2019 15:01 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 25 Sep 2019 15:01 [VotingPlugin] Debug: Detected using spigot
+Wed, 25 Sep 2019 15:01 [VotingPlugin] Debug: Server in online mode
+Wed, 25 Sep 2019 15:01 [VotingPlugin] Debug: Loaded rewards
+Wed, 25 Sep 2019 15:18 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 25 Sep 2019 15:18 [VotingPlugin] Debug: Detected using spigot
+Wed, 25 Sep 2019 15:18 [VotingPlugin] Debug: Server in online mode
+Wed, 25 Sep 2019 15:18 [VotingPlugin] Debug: Loaded rewards
+Thu, 26 Sep 2019 17:18 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 26 Sep 2019 17:18 [VotingPlugin] Debug: Detected using spigot
+Thu, 26 Sep 2019 17:18 [VotingPlugin] Debug: Server in online mode
+Thu, 26 Sep 2019 17:18 [VotingPlugin] Debug: Loaded rewards
+Thu, 26 Sep 2019 20:49 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 26 Sep 2019 20:49 [VotingPlugin] Debug: Detected using spigot
+Thu, 26 Sep 2019 20:49 [VotingPlugin] Debug: Server in online mode
+Thu, 26 Sep 2019 20:49 [VotingPlugin] Debug: Loaded rewards
+Fri, 27 Sep 2019 17:46 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 27 Sep 2019 17:46 [VotingPlugin] Debug: Detected using spigot
+Fri, 27 Sep 2019 17:46 [VotingPlugin] Debug: Server in online mode
+Fri, 27 Sep 2019 17:46 [VotingPlugin] Debug: Loaded rewards
+Fri, 27 Sep 2019 17:51 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 27 Sep 2019 17:51 [VotingPlugin] Debug: Detected using spigot
+Fri, 27 Sep 2019 17:51 [VotingPlugin] Debug: Server in online mode
+Fri, 27 Sep 2019 17:51 [VotingPlugin] Debug: Loaded rewards
+Fri, 27 Sep 2019 17:53 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 27 Sep 2019 17:53 [VotingPlugin] Debug: Detected using spigot
+Fri, 27 Sep 2019 17:53 [VotingPlugin] Debug: Server in online mode
+Fri, 27 Sep 2019 17:53 [VotingPlugin] Debug: Loaded rewards
+Fri, 27 Sep 2019 17:56 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 27 Sep 2019 17:56 [VotingPlugin] Debug: Detected using spigot
+Fri, 27 Sep 2019 17:56 [VotingPlugin] Debug: Server in online mode
+Fri, 27 Sep 2019 17:56 [VotingPlugin] Debug: Loaded rewards
+Sat, 28 Sep 2019 17:14 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 28 Sep 2019 17:14 [VotingPlugin] Debug: Detected using spigot
+Sat, 28 Sep 2019 17:14 [VotingPlugin] Debug: Server in online mode
+Sat, 28 Sep 2019 17:14 [VotingPlugin] Debug: Loaded rewards
+Sat, 28 Sep 2019 18:02 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 28 Sep 2019 18:02 [VotingPlugin] Debug: Detected using spigot
+Sat, 28 Sep 2019 18:02 [VotingPlugin] Debug: Server in online mode
+Sat, 28 Sep 2019 18:02 [VotingPlugin] Debug: Loaded rewards
+Sun, 29 Sep 2019 10:12 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 29 Sep 2019 10:12 [VotingPlugin] Debug: Detected using spigot
+Sun, 29 Sep 2019 10:12 [VotingPlugin] Debug: Server in online mode
+Sun, 29 Sep 2019 10:12 [VotingPlugin] Debug: Loaded rewards
+Wed, 2 Oct 2019 13:24 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 2 Oct 2019 13:24 [VotingPlugin] Debug: Detected using spigot
+Wed, 2 Oct 2019 13:24 [VotingPlugin] Debug: Server in offline mode
+Wed, 2 Oct 2019 13:24 [VotingPlugin] Debug: Loaded rewards
+Wed, 2 Oct 2019 13:30 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 2 Oct 2019 13:30 [VotingPlugin] Debug: Detected using spigot
+Wed, 2 Oct 2019 13:30 [VotingPlugin] Debug: Server in offline mode
+Wed, 2 Oct 2019 13:30 [VotingPlugin] Debug: Loaded rewards
+Wed, 2 Oct 2019 20:35 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 2 Oct 2019 20:35 [VotingPlugin] Debug: Detected using spigot
+Wed, 2 Oct 2019 20:35 [VotingPlugin] Debug: Server in offline mode
+Wed, 2 Oct 2019 20:35 [VotingPlugin] Debug: Loaded rewards
+Thu, 3 Oct 2019 16:57 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 3 Oct 2019 16:57 [VotingPlugin] Debug: Detected using spigot
+Thu, 3 Oct 2019 16:57 [VotingPlugin] Debug: Server in online mode
+Thu, 3 Oct 2019 16:57 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 15:48 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 15:48 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 15:48 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 15:48 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 16:00 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 16:00 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 16:00 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 16:00 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 16:11 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 16:11 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 16:11 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 16:11 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 16:14 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 16:14 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 16:14 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 16:14 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 16:18 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 16:18 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 16:18 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 16:18 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 16:21 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 16:21 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 16:21 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 16:21 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 16:23 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 16:23 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 16:23 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 16:23 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 16:37 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 16:37 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 16:37 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 16:37 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 17:35 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 17:35 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 17:35 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 17:35 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 18:12 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 18:12 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 18:12 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 18:12 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 18:13 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 18:13 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 18:13 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 18:13 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 18:16 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 18:16 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 18:16 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 18:16 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 18:20 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 18:20 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 18:20 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 18:20 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 18:23 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 18:23 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 18:23 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 18:23 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 18:25 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 18:25 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 18:25 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 18:25 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 21:48 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 21:48 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 21:48 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 21:48 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 21:57 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 21:57 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 21:57 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 21:57 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 22:02 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 22:02 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 22:02 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 22:02 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 22:13 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 22:13 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 22:13 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 22:13 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 22:18 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 22:18 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 22:18 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 22:18 [VotingPlugin] Debug: Loaded rewards
+Fri, 4 Oct 2019 22:20 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 4 Oct 2019 22:20 [VotingPlugin] Debug: Detected using spigot
+Fri, 4 Oct 2019 22:20 [VotingPlugin] Debug: Server in online mode
+Fri, 4 Oct 2019 22:20 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 15:15 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 15:15 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 15:15 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 15:15 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 15:17 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 15:17 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 15:17 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 15:17 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 15:19 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 15:19 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 15:19 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 15:19 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 15:28 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 15:28 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 15:28 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 15:28 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 16:22 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 16:22 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 16:22 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 16:22 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 16:28 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 16:28 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 16:28 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 16:28 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 16:33 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 16:33 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 16:33 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 16:34 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 16:47 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 16:47 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 16:47 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 16:47 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 17:20 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 17:20 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 17:20 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 17:20 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 17:36 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 17:36 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 17:36 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 17:36 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 17:40 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 17:40 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 17:40 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 17:41 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 17:43 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 17:43 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 17:43 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 17:43 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 17:50 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 17:50 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 17:50 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 17:50 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 17:58 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 17:58 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 17:58 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 17:58 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 18:02 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 18:02 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 18:02 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 18:02 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 18:08 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 18:08 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 18:08 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 18:08 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 18:11 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 18:11 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 18:11 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 18:11 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 18:15 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 18:15 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 18:15 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 18:15 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 18:19 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 18:19 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 18:19 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 18:19 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 18:26 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 18:26 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 18:26 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 18:26 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 18:30 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 18:30 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 18:30 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 18:30 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 19:08 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 19:08 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 19:08 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 19:08 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 19:12 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 19:12 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 19:12 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 19:12 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 19:20 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 19:20 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 19:20 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 19:20 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 19:27 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 19:27 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 19:27 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 19:28 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 19:31 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 19:31 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 19:31 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 19:31 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 19:47 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 19:47 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 19:47 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 19:47 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 19:51 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 19:51 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 19:51 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 19:51 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 20:03 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 20:03 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 20:03 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 20:03 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 20:06 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 20:06 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 20:06 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 20:06 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 20:08 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 20:08 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 20:08 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 20:08 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 20:40 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 20:40 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 20:40 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 20:40 [VotingPlugin] Debug: Loaded rewards
+Sun, 6 Oct 2019 20:48 [VotingPlugin] Debug: Loaded VoteSites
+Sun, 6 Oct 2019 20:48 [VotingPlugin] Debug: Detected using spigot
+Sun, 6 Oct 2019 20:48 [VotingPlugin] Debug: Server in online mode
+Sun, 6 Oct 2019 20:48 [VotingPlugin] Debug: Loaded rewards
+Mon, 7 Oct 2019 17:33 [VotingPlugin] Debug: Loaded VoteSites
+Mon, 7 Oct 2019 17:33 [VotingPlugin] Debug: Detected using spigot
+Mon, 7 Oct 2019 17:33 [VotingPlugin] Debug: Server in online mode
+Mon, 7 Oct 2019 17:33 [VotingPlugin] Debug: Loaded rewards
+Mon, 7 Oct 2019 18:35 [VotingPlugin] Debug: Loaded VoteSites
+Mon, 7 Oct 2019 18:35 [VotingPlugin] Debug: Detected using spigot
+Mon, 7 Oct 2019 18:35 [VotingPlugin] Debug: Server in online mode
+Mon, 7 Oct 2019 18:35 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 16:48 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 16:48 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 16:48 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 16:48 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 17:21 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 17:21 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 17:21 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 17:21 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 20:13 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 20:13 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 20:13 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 20:13 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 20:22 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 20:22 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 20:22 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 20:22 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 20:33 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 20:33 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 20:33 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 20:33 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 20:40 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 20:40 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 20:40 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 20:40 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 20:55 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 20:55 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 20:55 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 20:55 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 21:05 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 21:05 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 21:05 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 21:05 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 21:11 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 21:11 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 21:11 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 21:11 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 21:23 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 21:23 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 21:23 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 21:23 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 21:43 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 21:43 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 21:43 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 21:43 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 21:45 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 21:45 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 21:45 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 21:45 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 21:50 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 21:50 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 21:50 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 21:50 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 22:01 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 22:01 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 22:01 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 22:01 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 22:02 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 22:02 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 22:02 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 22:02 [VotingPlugin] Debug: Loaded rewards
+Thu, 10 Oct 2019 22:04 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 10 Oct 2019 22:04 [VotingPlugin] Debug: Detected using spigot
+Thu, 10 Oct 2019 22:04 [VotingPlugin] Debug: Server in online mode
+Thu, 10 Oct 2019 22:04 [VotingPlugin] Debug: Loaded rewards
+Fri, 11 Oct 2019 22:33 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 11 Oct 2019 22:33 [VotingPlugin] Debug: Detected using spigot
+Fri, 11 Oct 2019 22:33 [VotingPlugin] Debug: Server in online mode
+Fri, 11 Oct 2019 22:33 [VotingPlugin] Debug: Loaded rewards
+Sat, 12 Oct 2019 14:39 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 12 Oct 2019 14:39 [VotingPlugin] Debug: Detected using spigot
+Sat, 12 Oct 2019 14:39 [VotingPlugin] Debug: Server in online mode
+Sat, 12 Oct 2019 14:39 [VotingPlugin] Debug: Loaded rewards
+Sat, 12 Oct 2019 18:07 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 12 Oct 2019 18:07 [VotingPlugin] Debug: Detected using spigot
+Sat, 12 Oct 2019 18:07 [VotingPlugin] Debug: Server in online mode
+Sat, 12 Oct 2019 18:07 [VotingPlugin] Debug: Loaded rewards
+Sat, 12 Oct 2019 18:14 [VotingPlugin] Debug: Loaded VoteSites
+Sat, 12 Oct 2019 18:14 [VotingPlugin] Debug: Detected using spigot
+Sat, 12 Oct 2019 18:14 [VotingPlugin] Debug: Server in online mode
+Sat, 12 Oct 2019 18:14 [VotingPlugin] Debug: Loaded rewards
+Tue, 15 Oct 2019 16:32 [VotingPlugin] Debug: Loaded VoteSites
+Tue, 15 Oct 2019 16:32 [VotingPlugin] Debug: Detected using spigot
+Tue, 15 Oct 2019 16:32 [VotingPlugin] Debug: Server in online mode
+Tue, 15 Oct 2019 16:32 [VotingPlugin] Debug: Loaded rewards
+Tue, 15 Oct 2019 16:36 [VotingPlugin] Debug: Loaded VoteSites
+Tue, 15 Oct 2019 16:36 [VotingPlugin] Debug: Detected using spigot
+Tue, 15 Oct 2019 16:36 [VotingPlugin] Debug: Server in online mode
+Tue, 15 Oct 2019 16:36 [VotingPlugin] Debug: Loaded rewards
+Tue, 15 Oct 2019 16:50 [VotingPlugin] Debug: Loaded VoteSites
+Tue, 15 Oct 2019 16:50 [VotingPlugin] Debug: Detected using spigot
+Tue, 15 Oct 2019 16:50 [VotingPlugin] Debug: Server in online mode
+Tue, 15 Oct 2019 16:50 [VotingPlugin] Debug: Loaded rewards
+Tue, 15 Oct 2019 17:32 [VotingPlugin] Debug: Loaded VoteSites
+Tue, 15 Oct 2019 17:32 [VotingPlugin] Debug: Detected using spigot
+Tue, 15 Oct 2019 17:32 [VotingPlugin] Debug: Server in online mode
+Tue, 15 Oct 2019 17:32 [VotingPlugin] Debug: Loaded rewards
+Wed, 16 Oct 2019 15:20 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 16 Oct 2019 15:20 [VotingPlugin] Debug: Detected using spigot
+Wed, 16 Oct 2019 15:20 [VotingPlugin] Debug: Server in online mode
+Wed, 16 Oct 2019 15:20 [VotingPlugin] Debug: Loaded rewards
+Wed, 16 Oct 2019 15:26 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 16 Oct 2019 15:26 [VotingPlugin] Debug: Detected using spigot
+Wed, 16 Oct 2019 15:26 [VotingPlugin] Debug: Server in online mode
+Wed, 16 Oct 2019 15:26 [VotingPlugin] Debug: Loaded rewards
+Wed, 16 Oct 2019 15:28 [VotingPlugin] Debug: Loaded VoteSites
+Wed, 16 Oct 2019 15:28 [VotingPlugin] Debug: Detected using spigot
+Wed, 16 Oct 2019 15:28 [VotingPlugin] Debug: Server in online mode
+Wed, 16 Oct 2019 15:28 [VotingPlugin] Debug: Loaded rewards
+Thu, 17 Oct 2019 17:22 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 17 Oct 2019 17:22 [VotingPlugin] Debug: Detected using spigot
+Thu, 17 Oct 2019 17:22 [VotingPlugin] Debug: Server in online mode
+Thu, 17 Oct 2019 17:22 [VotingPlugin] Debug: Loaded rewards
+Thu, 17 Oct 2019 18:14 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 17 Oct 2019 18:14 [VotingPlugin] Debug: Detected using spigot
+Thu, 17 Oct 2019 18:14 [VotingPlugin] Debug: Server in online mode
+Thu, 17 Oct 2019 18:14 [VotingPlugin] Debug: Loaded rewards
+Thu, 17 Oct 2019 19:18 [VotingPlugin] Debug: Loaded VoteSites
+Thu, 17 Oct 2019 19:18 [VotingPlugin] Debug: Detected using spigot
+Thu, 17 Oct 2019 19:18 [VotingPlugin] Debug: Server in online mode
+Thu, 17 Oct 2019 19:18 [VotingPlugin] Debug: Loaded rewards
+Fri, 18 Oct 2019 08:26 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 18 Oct 2019 08:26 [VotingPlugin] Debug: Detected using spigot
+Fri, 18 Oct 2019 08:26 [VotingPlugin] Debug: Server in online mode
+Fri, 18 Oct 2019 08:26 [VotingPlugin] Debug: Loaded rewards
+Fri, 18 Oct 2019 08:28 [VotingPlugin] Debug: Loaded VoteSites
+Fri, 18 Oct 2019 08:28 [VotingPlugin] Debug: Detected using spigot
+Fri, 18 Oct 2019 08:28 [VotingPlugin] Debug: Server in online mode
+Fri, 18 Oct 2019 08:28 [VotingPlugin] Debug: Loaded rewards

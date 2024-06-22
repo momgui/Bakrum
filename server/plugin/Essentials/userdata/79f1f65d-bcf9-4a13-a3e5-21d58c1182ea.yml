@@ -1,0 +1,20 @@
+lastAccountName: LeThibaut
+timestamps:
+  login: 1570975161052
+  logout: 1570975711103
+ipAddress: 213.245.8.64
+geolocation: France
+lastlocation:
+  world: spawn
+  x: -5.496392348781464
+  y: 80.5
+  z: 17.098851562714
+  yaw: -169.07497
+  pitch: -36.129063
+logoutlocation:
+  world: spawn
+  x: 5.279006597281786
+  y: -113.95283014578328
+  z: -39.14259972340159
+  yaw: -78.45114
+  pitch: -19.199966

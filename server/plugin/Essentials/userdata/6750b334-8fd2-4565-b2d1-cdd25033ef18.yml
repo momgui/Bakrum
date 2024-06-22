@@ -1,0 +1,20 @@
+lastAccountName: loulouki6
+timestamps:
+  login: 1569767278191
+  logout: 1569767417029
+ipAddress: 82.120.226.239
+geolocation: France
+lastlocation:
+  world: spawn
+  x: 0.4568496719552338
+  y: 64.0
+  z: 0.6386136325115567
+  yaw: 270.35263
+  pitch: -3.899833
+logoutlocation:
+  world: spawn
+  x: -0.19386967820039724
+  y: 64.0
+  z: 0.391198831111412
+  yaw: -43.50006
+  pitch: 26.54996

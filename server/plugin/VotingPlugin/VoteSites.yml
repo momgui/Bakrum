@@ -1,0 +1,46 @@
+VoteSites:
+  ServeurMinecraft:
+    Enabled: true
+    Name: 'Serveur-Minecraft'
+    Priority: 5
+    ServiceSite: 'serveurs-minecraft.org'
+    VoteURL: 'https://www.serveurs-minecraft.org/vote.php?id=56771'
+    VoteDelay: 24
+    WaitUntilVoteDelay: false
+    VoteDelayDaily: false
+    ForceOffline: false
+    Item:
+      Material: 'DIAMOND'
+      Amount: 1
+    Rewards:
+      Commands:
+        console:
+        - 'give %player% Diamond 5'
+      Messages:
+        Player: 'You voted'
+  ServeurPrivé:
+    Enabled: true
+    Name: 'ServeurPrivé'
+    ServiceSite: 'serveur-prive.net'
+    VoteURL: 'https://serveur-prive.net/minecraft/bakrum-1603/vote'
+    VoteDelay: 2
+    Item:
+      Material: 'EMERALD'
+      Amount: 1
+    Rewards:
+      Commands:
+      AdvancedPriority:
+        Reward1:
+          Chance: 50
+          Messages:
+            Player: 'You got first reward'
+        Reward2:
+          Chance: 20
+          Messages:
+            Player: 'You got second reward'
+        Fallback:
+          Messages:
+            Player: 'You got unlucky'
+      Messages:
+        Player: 'You voted'
+EverySiteReward: []

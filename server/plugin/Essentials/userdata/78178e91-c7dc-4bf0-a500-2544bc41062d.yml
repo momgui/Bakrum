@@ -1,0 +1,78 @@
+lastAccountName: ACham75
+timestamps:
+  login: 1571502615241
+  logout: 1571503206336
+  lastteleport: 1571502693592
+ipAddress: 90.43.0.121
+lastlocation:
+  world: spawn
+  x: -58.11040997571654
+  y: -23.965507032345126
+  z: -15.993590687069108
+  yaw: -246.6003
+  pitch: -86.84997
+homes:
+  terre:
+    world: mst
+    x: 164.63696296111306
+    y: 69.0
+    z: -496.2911926349349
+    yaw: -106.58075
+    pitch: 25.197565
+  bar:
+    world: spawn
+    x: -2.4092019989348374
+    y: 44.0
+    z: -4.950756896222476
+    yaw: -327.2499
+    pitch: 30.0
+  eau:
+    world: ma
+    x: 62.699999988079064
+    y: 58.0
+    z: 9.303306612866376
+    yaw: -83.39833
+    pitch: 28.4998
+  maison:
+    world: mb
+    x: 221.061311853471
+    y: 74.0
+    z: 31.19788540867831
+    yaw: 6.7550917
+    pitch: 48.149986
+  farm:
+    world: mb
+    x: 164.41675940797518
+    y: 60.0
+    z: 24.13447266643257
+    yaw: -186.14484
+    pitch: 52.949974
+  mine:
+    world: resource
+    x: 70.86096777415678
+    y: 15.047546954899156
+    z: -230.44882494912213
+    yaw: -244.05115
+    pitch: 44.84987
+  spawner:
+    world: resource
+    x: 34.35007532765819
+    y: 4.0
+    z: -267.54953872963875
+    yaw: 358.64883
+    pitch: 5.7000003
+logoutlocation:
+  world: mb
+  x: 219.82190815051067
+  y: 74.5625
+  z: 32.122013096742265
+  yaw: -155.90527
+  pitch: 0.15002765
+mail:
+- §6[§rvH_Whiiz§6] §rgg si c est bien toi ^^
+- §6[§rvH_Whiiz§6] §rJ'ai terminer la salle a drogue et putes dites moi ce que vous
+  en pensez :p ne rien casser !!! sinon ban 1 jour dsl ^^
+money: '15055.3001121915312106'
+nickname: ACham75
+afk: false
+geolocation: France

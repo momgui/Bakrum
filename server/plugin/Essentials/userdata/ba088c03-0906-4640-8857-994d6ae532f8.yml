@@ -1,0 +1,20 @@
+lastAccountName: ImWizard
+timestamps:
+  login: 1569695288426
+  logout: 1569695408832
+ipAddress: 78.247.126.132
+lastlocation:
+  world: spawn
+  x: 0.4568496719552338
+  y: 64.0
+  z: 0.6386136325115567
+  yaw: 270.35263
+  pitch: -3.899833
+geolocation: France
+logoutlocation:
+  world: spawn
+  x: 7.117037161295776
+  y: 52.0
+  z: -20.75294665956996
+  yaw: -228.61646
+  pitch: -47.852295

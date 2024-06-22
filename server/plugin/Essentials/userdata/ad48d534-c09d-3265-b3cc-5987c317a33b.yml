@@ -1,0 +1,20 @@
+geolocation: France
+lastAccountName: ACham75
+timestamps:
+  login: 1570114446884
+  logout: 1570114468800
+ipAddress: 90.43.236.192
+lastlocation:
+  world: spawn
+  x: 0.450531552000891
+  y: 64.0
+  z: 0.42171310026931164
+  yaw: 275.29974
+  pitch: 9.000001
+logoutlocation:
+  world: spawn
+  x: 0.27080989911395403
+  y: 64.0
+  z: -1.1362799816548146
+  yaw: 18.299967
+  pitch: 13.500029

@@ -1,0 +1,33 @@
+lastAccountName: Blockor1000
+timestamps:
+  login: 1571408379830
+  lastteleport: 1571151966545
+  logout: 1571411820355
+ipAddress: 82.251.101.36
+lastlocation:
+  world: spawn
+  x: 38.15829705079337
+  y: 73.86391868283654
+  z: -1.5539726681467534
+  yaw: -224.8476
+  pitch: -1.500158
+afk: false
+logoutlocation:
+  world: spawn
+  x: 104.32666592230629
+  y: 115.59682470815231
+  z: -99.67086942926625
+  yaw: -177.42863
+  pitch: 28.349998
+mail:
+- §6[§rvH_Whiiz§6] §rJ'ai terminer la salle a drogue et putes dites moi ce que vous
+  en pensez :p ne rien casser !!! sinon ban 1 jour dsl ^^
+homes:
+  home:
+    world: mb
+    x: -696.1865825906451
+    y: 77.90586975254004
+    z: -176.75101044061407
+    yaw: -67.34619
+    pitch: 6.449966
+money: '1.0'

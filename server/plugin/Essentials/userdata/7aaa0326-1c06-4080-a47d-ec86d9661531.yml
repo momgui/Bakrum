@@ -1,0 +1,20 @@
+lastAccountName: Elendi
+timestamps:
+  login: 1569610586769
+  logout: 1569610625472
+ipAddress: 88.176.229.117
+lastlocation:
+  world: spawn
+  x: 0.4568496719552338
+  y: 64.0
+  z: 0.6386136325115567
+  yaw: 270.35263
+  pitch: -3.899833
+geolocation: France
+logoutlocation:
+  world: spawn
+  x: -3.832831619943854
+  y: 64.0
+  z: 2.4537049182921153
+  yaw: -91.29591
+  pitch: 23.029652

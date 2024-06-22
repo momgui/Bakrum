@@ -1,0 +1,21 @@
+geolocation: France
+lastAccountName: MOMGUI
+timestamps:
+  login: 1570041340889
+  logout: 1570041478568
+ipAddress: 86.252.162.54
+lastlocation:
+  world: spawn
+  x: 5.041397382135356
+  y: 60.0
+  z: -6.730914234999319
+  yaw: 254.0033
+  pitch: 39.150017
+logoutlocation:
+  world: spawn
+  x: 0.675036102753982
+  y: 64.0
+  z: 2.1949812605585555
+  yaw: 314.89984
+  pitch: 44.399963
+afk: false
